@@ -1,6 +1,6 @@
 Tim link phim cua cac Idol dua tren ten:
 
-###Usage
+### Usage
 1. Install python
 2. Run: py findIdol.py
 3. Enter name of idol
